@@ -78,8 +78,9 @@ Additional product and KPI analysis was also performed.
 
 ## Project Files
 
-![Final deshboard workbook](SUPERMART_SALES_DASHBOARD_2.xlsx) — final analysis workbook and dashboard
-![Raw Dataset Super Market](SuperMarket_RAW.csv) — original raw dataset
+![Final deshboard workbook](SUPERMART_SALES_DASHBOARD_2.xlsx)
+![Raw Dataset Super Market](SuperMarket_RAW.csv)
+
 
 
 ## Learning Outcome
