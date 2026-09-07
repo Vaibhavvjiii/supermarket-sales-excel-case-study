@@ -69,18 +69,17 @@ Additional product and KPI analysis was also performed.
 
 ## Dashboard Preview
 
-![Supermarket Sales Dashboard](screenshots/dashboard.png)
+![Supermarket Sales Dashboard](DASHBOARD_IMAGE.png)
 
 ## PivotTable Analysis
 
-![PivotTable Analysis](screenshots/pivot-analysis.png)
-![PivotTable Analysis](screenshots/pivot-analysis.png)
+![PivotTable Analysis](PIVOTTABLES_IMAGE.png )
 
 
 ## Project Files
 
-- `Supermarket_Sales_Analysis.xlsx` — final analysis workbook and dashboard
-- `Supermarket_Sales_Raw.csv` — original raw dataset
+- `SUPERMART_SALES_DASHBOARD 2.xlsx` — final analysis workbook and dashboard
+- `SuperMarket_RAW.csv` — original raw dataset
 - `screenshots/` — supporting project screenshots
 
 ## Learning Outcome
